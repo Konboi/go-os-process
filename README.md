@@ -41,9 +41,6 @@ func main() {
 * program経由でプロセスを作る
 * `os/exec` 使ったほうが簡単
 
-
-```
-
 ## func (p *Process) Kill() error
 
 * process殺す
