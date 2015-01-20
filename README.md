@@ -16,7 +16,7 @@ type Process struct {
 
 * process id を渡すとプロセスを返す
 
-![img](https://project.kayac.com/gyazo/data/42d490fd.png)
+![img](http://i.gyazo.com/350d201e5edb5a93a33274f895bdcff7.png)
 
 ```go-lang
 package main
@@ -49,7 +49,7 @@ func main() {
 * process殺す
 * `type Process`を渡す
 
-![kill](http://gyazo.com/2753e92349e687fa0bbc892bb5c3a46c)
+![kill](http://i.gyazo.com/2753e92349e687fa0bbc892bb5c3a46c.gif)
 
 
 ```go-lang
